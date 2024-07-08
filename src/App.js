@@ -15,11 +15,11 @@ function App() {
       <header className="App-header">
         <h1>Affirmations</h1>
         {Object.keys(affirmations).map(category => (
-          <div key={category}>
-            <h2>{category.replace(/-/g, ' ')}</h2>
-            <ul>
+          <div key={category} className="category">
+            <h2 className="category-title">{category.replace(/-/g, ' ')}</h2>
+            <ul className="affirmation-list">
               {affirmations[category].map((affirmation, index) => (
-                <li key={index}>{affirmation}</li>
+                <li key={index} className="affirmation-item">{affirmation}</li>
               ))}
             </ul>
           </div>

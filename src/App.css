@@ -1,3 +1,5 @@
+/* App.css */
+
 .App {
   text-align: center;
 }
@@ -9,12 +11,13 @@
 }
 
 h1 {
-  font-size: 2.5rem;
+  font-size: 3rem; /* Increased font size for the main title */
 }
 
 h2 {
   font-size: 2rem;
   margin-top: 20px;
+  font-style: italic; /* Make category titles italic */
 }
 
 ul {
@@ -25,4 +28,8 @@ ul {
 li {
   font-size: 1.25rem;
   margin: 10px 0;
+}
+
+.category {
+  margin-bottom: 40px; /* Add space between categories */
 }
