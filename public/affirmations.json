@@ -1,68 +1,81 @@
 {
-    "self-worth": [
-      "I am deserving of love and respect. 💖",
-      "My worth is intrinsic and unchanging. 🌟",
-      "I am a valuable and important person. 🌸",
-      "I am enough just as I am. 🌈",
-      "I am proud of who I am becoming. 🌱",
-      "I am a unique and valuable person. 🌼",
-      "I am worthy of all good things. 🏅"
-    ],
-    "resilience": [
-      "I am resilient and strong. 💪",
-      "I am capable of overcoming challenges. 🌄",
-      "I trust in my ability to navigate life’s challenges. 🚀",
-      "I have the strength to move forward. ⛅",
-      "I am constantly growing and evolving. 🌀",
-      "I am capable of building healthy relationships. 🤝",
-      "I am proud of my progress. 🌟"
-    ],
-    "self-love": [
-      "I am deserving of happiness and success. 🌞",
-      "I am worthy of peace and contentment. 🕊️",
-      "I am learning to love and accept myself. 💗",
-      "I am deserving of forgiveness and compassion. 💐",
-      "I am deserving of love and kindness from myself. 🌷",
-      "I choose to see the good in myself. 🌟",
-      "I am proud of who I am today. 🏆"
-    ],
-    "positive growth": [
-      "I am capable of creating a positive self-image. 🌟",
-      "I have the power to change my beliefs. 🔄",
-      "I believe in my ability to grow and change. 🌻",
-      "I choose to focus on my strengths. 💪",
-      "I trust in my ability to make positive changes. 🌠",
-      "I am open to new and positive experiences. 🌅",
-      "I am open to new possibilities. 🌠",
-      "I choose to embrace positivity and growth. 🌈"
-    ],
-    "self-discovery": [
-      "I embrace my journey of self-discovery. 🌍",
-      "I am proud of my efforts and achievements. 🏆",
-      "I trust myself to make the right decisions. 🔑",
-      "I am in charge of my own happiness. 🌟",
-      "I am constantly growing and evolving. 🌀",
-      "I trust myself to handle anything that comes my way. 🛡️",
-      "I choose to let go of what no longer serves me. 🍃",
-      "I am capable of rewriting my story. 📖",
-      "I am grateful for my journey and where it is taking me. 🚗"
-    ],
-    "support and connection": [
-      "I am surrounded by love and support. ❤️",
-      "I am worthy of being heard and seen. 👁️",
-      "I am open to new perspectives and insights. 🔍",
-      "I am deserving of joy and laughter. 😂",
-      "I am capable of building healthy relationships. 🤝",
-      "I am proud of my efforts and achievements. 🏅"
-    ],
-    "future potential": [
-      "I am capable of achieving my goals. 🥅",
-      "I am a powerful creator of my own life. 🌟",
-      "I am deserving of all the good life has to offer. 🌞",
-      "I trust in my ability to navigate life’s challenges. 🚀",
-      "I am open to new possibilities. 🌈",
-      "I am proud of who I am becoming. 🌱",
-      "I am a unique and valuable person. 🌼"
-    ]
-  }
-  
+  "self-worth": [
+    "I am deserving of love and respect. 💖",
+    "My worth is intrinsic and unchanging. 🌟",
+    "I am a valuable and important person. 🌸",
+    "I am enough just as I am. 🌈",
+    "I am proud of who I am becoming. 🌱",
+    "I am a unique and valuable person. 🌼",
+    "I am worthy of all good things. 🏅",
+    "I deserve to be treated with kindness and respect. 🌷",
+    "I am worthy of my own love and acceptance. 💞"
+  ],
+  "resilience": [
+    "I am resilient and strong. 💪",
+    "I am capable of overcoming challenges. 🌄",
+    "I trust in my ability to navigate life’s challenges. 🚀",
+    "I have the strength to move forward. ⛅",
+    "I am constantly growing and evolving. 🌀",
+    "I am capable of building healthy relationships. 🤝",
+    "I am proud of my progress. 🌟",
+    "I am capable of learning and improving. 📚",
+    "I face challenges with courage and confidence. 🛡️",
+    "I am stronger than my past experiences. 🛤️",
+    "I rise above adversity with grace and strength. 🌺"
+  ],
+  "self-love": [
+    "I am deserving of happiness and success. 🌞",
+    "I am worthy of peace and contentment. 🕊️",
+    "I am learning to love and accept myself. 💗",
+    "I am deserving of forgiveness and compassion. 💐",
+    "I am deserving of love and kindness from myself. 🌷",
+    "I choose to see the good in myself. 🌟",
+    "I am proud of who I am today. 🏆",
+    "I treat myself with kindness and respect. 🌸",
+    "I honor my feelings and take care of my needs. 💧"
+  ],
+  "positive growth": [
+    "I am capable of creating a positive self-image. 🌟",
+    "I have the power to change my beliefs. 🔄",
+    "I believe in my ability to grow and change. 🌻",
+    "I choose to focus on my strengths. 💪",
+    "I trust in my ability to make positive changes. 🌠",
+    "I am open to new and positive experiences. 🌅",
+    "I choose to embrace positivity and growth. 🌈",
+    "I am capable of achieving great things. 🏆",
+    "I am open to learning and evolving every day. 📖"
+  ],
+  "self-discovery": [
+    "I embrace my journey of self-discovery. 🌍",
+    "I am proud of my efforts and achievements. 🏆",
+    "I trust myself to make the right decisions. 🔑",
+    "I am in charge of my own happiness. 🌟",
+    "I trust myself to handle anything that comes my way. 🛡️",
+    "I choose to let go of what no longer serves me. 🍃",
+    "I am capable of rewriting my story. 📖",
+    "I am grateful for my journey and where it is taking me. 🚗",
+    "I learn and grow from my experiences. 📈",
+    "I embrace my strengths and acknowledge my weaknesses. 🌱",
+    "I am on a journey to become my best self. 🚀"
+  ],
+  "support and connection": [
+    "I am surrounded by love and support. ❤️",
+    "I am worthy of being heard and seen. 👁️",
+    "I am open to new perspectives and insights. 🔍",
+    "I am deserving of joy and laughter. 😂",
+    "I nurture and cherish my connections. 🌳",
+    "I am capable of forming deep and meaningful relationships. 🌊",
+    "I value and respect the people in my life. 🏡"
+  ],
+  "future potential": [
+    "I am capable of achieving my goals. 🥅",
+    "I am a powerful creator of my own life. 🌟",
+    "I am deserving of all the good life has to offer. 🌞",
+    "I am open to new possibilities. 🌈",
+    "I am proud of who I am becoming. 🌱",
+    "I am continually learning and evolving. 📚",
+    "I have the potential to accomplish great things. 🌠",
+    "I trust in my journey and embrace my future. 🛤️",
+    "I create my future with the choices I make today. 🕰️"
+  ]
+}
